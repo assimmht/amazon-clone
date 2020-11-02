@@ -1,6 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Amazon-clone
+This project is an amazon clone with firebase which contains the users authentication, the addition to the basket of products and the payment system is under development.
+Demo: https://assimmht.github.io/amazon-clone/
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
