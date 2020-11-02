@@ -1,5 +1,5 @@
 ## Amazon-clone
-This project is an amazon clone with firebase which contains the users authentication, the addition to the basket of products and the payment system is under development.
+This project is an amazon clone with firebase which contains the users authentication, the addition to the basket of products and the payment system is under development.<br>
 Demo: https://assimmht.github.io/amazon-clone/
 
 ## Available Scripts
